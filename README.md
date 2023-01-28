@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋, I'm Shaloy!</h1>
-<h3 align="left">I am an aspiring data scientist from India </h3>
+<h3 align="left">I am a data scientist from India working for People Interactive. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaloy-lewis&label=Profile%20views&color=ff4242&style=flat" alt="shaloy-lewis" /> </p>
 
