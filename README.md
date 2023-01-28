@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaloy-lewis&label=Profile%20views&color=ff4242&style=flat" alt="shaloy-lewis" /> </p>
 
-- 🔭 I’m currently working on [Netflix Movies and TV shows clustering](https://github.com/shaloy-lewis/Netflix_movies_and_tv_shows_clustering)
+- 🔭 I’m currently working on **Practical Data Science**
 
-- 🌱 I’m currently learning **NLP, Deep Learning - Andrew Ng, MLOps**
+- 🌱 I’m currently learning **NLP, Deep Learning, MLOps**
 
 - 🤝 I’m looking for help with **Deep Learning concepts**
 
