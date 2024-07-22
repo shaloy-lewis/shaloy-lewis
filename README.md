@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=shaloy-lewis&label=Profile%20views&color=ff4242&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 Currently working on solving **BUSINESS** problems at People Interactive by leveraging AI/ML/DL concepts
+- 🔭 Currently solving **BUSINESS** problems at People Interactive by leveraging AI/ML/DL concepts.
 
 - 🌱 I'm currently learning NLP, Computer Vision, MLOps, and Generative AI
 
